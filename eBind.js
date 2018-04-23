@@ -92,7 +92,7 @@
     };
 
     /**
-     * 解析指令（e-bind、e-model、e-click）等，并在这个过程中对 view 与 model 进行绑定
+     * 解析指令（e-bind,e-model,e-clickde）等，并在这个过程中对 view 与 model 进行绑定
      * @param root  root 为 id 为 app 的 Element 元素，也就是我们的根元素
      * @private
      */
